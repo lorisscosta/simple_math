@@ -1,0 +1,4 @@
+.vscode
+*_td.c
+[Cc]compiler/
+*.exe
